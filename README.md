@@ -7,4 +7,4 @@ In this way, any user can access the website URL, search for stores based on the
 - Import it as a Maven Project in your IDE.Preferably Eclipse Mars.
 - Run the Project on a Tomcat v8 server
 - Access the following URL https://localhost:8080/app/homepage
-- You will be able to see a screen similar to Firstpage.png
+- You will be able to see a screen similar to firstPage.PNG
